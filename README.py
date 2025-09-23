@@ -1,4 +1,4 @@
-This is part of the work I accomplish as student at the university of Chicago
+
 import tensorflow as tf
 import numpy as np
 import os
